@@ -1,0 +1,49 @@
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ make compile
+
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ ./program
+What data are you extracting? (oneWord): codeFoo
+How many columns?: 3
+Enter each position number
+(starting from 0)
+followed by the enter key:
+0
+2
+7
+
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ ./program
+What data are you extracting? (oneWord): fooBarBashOrdered
+How many columns?: 3
+Enter each position number
+(starting from 0)
+followed by the enter key:
+0
+1
+3
+
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ ./program
+What data are you extracting? (oneWord): fooBarBashDisordered
+How many columns?: 3
+Enter each position number
+(starting from 0)
+followed by the enter key:
+1
+0
+3
+
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ ./program
+What data are you extracting? (oneWord): theCollege
+How many columns?: 2
+Enter each position number
+(starting from 0)
+followed by the enter key:
+4
+8
+
+darthpbal@HAL:~/Dropbox/NASA Ascend/gpsParser/launchDataExtractor$ ./program
+What data are you extracting? (oneWord): howToInternet
+How many columns?: 2
+Enter each position number
+(starting from 0)
+followed by the enter key:
+5
+7
