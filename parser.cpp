@@ -55,6 +55,7 @@ int main(){
 	inputFile.close();
 	outputFile.close();
 	cout << endl;
+	return 0;
 }
 
 
